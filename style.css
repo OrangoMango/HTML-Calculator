@@ -1,0 +1,19 @@
+h1 {
+/* color */
+color: red;
+}
+
+.colorgreen {
+/* color to green */
+color: green;
+}
+
+.rotatevideo {
+/* rotate video 10degrees */
+transform: rotate(10deg);
+}
+
+#lspac {
+/* letter spacing */
+letter-spacing: 6px;
+}
